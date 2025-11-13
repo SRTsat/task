@@ -1,0 +1,16 @@
+{
+    "name": "SADA - Daily Task",
+    "short_name": "SDT",
+    "background_color": "#6777ef",
+    "display": "fullscreen",
+    "description": "An app to manage your daily tasks efficiently.",
+    "theme_color": "#6777ef",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "images/logos/logo-sada.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
